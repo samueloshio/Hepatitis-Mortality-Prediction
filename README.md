@@ -1,2 +1,5 @@
 # Hepatitis-Mortality-Prediction
-A Machine Learning project that focuses on predicting if a patient with hepatitis will die or live.
+
+#### Project Objective
++ To predict if a patient with hepatitis will live or die, bases on the parameters of the test result using Machine Learning.
+
